@@ -1,1 +1,3 @@
 C:\Users\Roman\Documents\CPP_WinForm\calc_WinForms\calc_WinForms\x64\Debug\calc_WinForms.vcxproj.AssemblyReference.cache
+C:\Users\Roman\Documents\CPP_WinForm\calc_WinForms\calc_WinForms\x64\Debug\calcWinForms.MyForm.resources
+C:\Users\Roman\Documents\CPP_WinForm\calc_WinForms\calc_WinForms\x64\Debug\calc_WinForms.vcxproj.GenerateResource.cache
